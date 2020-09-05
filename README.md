@@ -1,0 +1,1 @@
+Some little projects of data manipulation and visualization of results
